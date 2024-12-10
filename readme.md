@@ -1,6 +1,6 @@
-# TP Spring Core – IoC & DI
+# Loizeau
 
-Loizeau
+## TP Spring Core – IoC & DI
 
 Exercice 5 : Escape Rooms
 
