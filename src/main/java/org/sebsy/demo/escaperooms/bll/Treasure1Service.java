@@ -5,7 +5,6 @@ import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 @Component
-@Service
 @Profile("trap")
 public class Treasure1Service implements TreasureService {
 
